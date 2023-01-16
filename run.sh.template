@@ -1,0 +1,3 @@
+TWITTER_APP_KEY="app key here" \
+TWITTER_APP_SECRET="app secret here" \
+exec node index.js
